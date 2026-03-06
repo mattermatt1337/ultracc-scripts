@@ -1,2 +1,3 @@
 # ultracc-scripts
-Scripts for ultra.cc seedboxes
+
+Used together with autobrr
